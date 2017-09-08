@@ -57,6 +57,6 @@
     "postinstall": "npm run vendor"
   },
   "engines": {
-    "node": "7.2.1"
+    "node": "8.x.x"
   }
 }
